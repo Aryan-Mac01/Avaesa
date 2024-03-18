@@ -7,11 +7,22 @@
     width: 100%;
     height: 100vh;
     font-family: 'agency fb';
-    background: url('reindeer.png') no-repeat;
-    background-position: 50%;
-    background-size: cover;
+    background: url('image-7.png') no-repeat;
+    background-size: 99rem;
     overflow: hidden;
   }
+
+  #title{
+    font-size: 60px;
+    color: #000000;
+  }
+
+  #p{
+    color: #000000;
+  }
+
+  
+
   
   ul {
     list-style: none;
